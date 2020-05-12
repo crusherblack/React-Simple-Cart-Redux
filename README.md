@@ -1,3 +1,8 @@
+# React Simple Cart Redux
+
+![CRUD Role](https://github.com/crusherblack/React-Simple-Cart-Redux/blob/master/img.png)
+![CRUD Role](https://github.com/crusherblack/React-Simple-Cart-Redux/blob/master/img2.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
